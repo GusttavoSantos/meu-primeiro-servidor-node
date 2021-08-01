@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/GusttavoSantos/meu-primeiro-servidor-node.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node-server"],
+  "author": "Gustavo Santos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GusttavoSantos/meu-primeiro-servidor-node/issues"
